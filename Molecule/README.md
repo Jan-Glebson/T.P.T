@@ -16,7 +16,7 @@ ansible==2.7
 
 Перед установкой надо установить на свою виртуальную машину Docker и Python3
 
-##Docker
+## Docker
 
  Первым делом обновите существующий список пакетов
  
@@ -70,7 +70,7 @@ apt-get update && apt-get upgrade
 apt-get dist-upgrade
 ```
 
-##python3
+## Python3
 
 Начать необходимо с установки пакетов, необходимых для сборки исходного кода Python
 
@@ -122,7 +122,7 @@ sudo make altinstall
 python3.7 –version
 ```
 
-##Molecule
+## Molecule
 
 Обновление обеспечит включение в ваш репозиторий последней версии пакета python-pip, который установит pip и Python.
 
