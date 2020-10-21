@@ -14,11 +14,11 @@ Terraform – это инструмент от компании Hashicorp, по�
 
 Windows
 
- - Скачайте [Terraform.zip] и разархивируйте в `C:\Windows\System32\` (https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip);
+Скачайте [Terraform.zip] и разархивируйте в `C:\Windows\System32\` (https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_windows_amd64.zip)
 
 Linux
 
- - Скачайте [Terraform.zip] и разархивируйте в `/usr/bin` (https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_linux_amd64.zip);
+Скачайте [Terraform.zip](https://releases.hashicorp.com/terraform/0.11.11/terraform_0.11.11_linux_amd64.zip) и разархивируйте в `/usr/bin` 
 
 ## Аутентификация
 
