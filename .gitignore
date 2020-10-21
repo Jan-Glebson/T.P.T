@@ -1,0 +1,7 @@
+python/
+# Terraform Compiled files
+terraform/*.tfstate
+terraform/*.tfstate.backup
+# Terraform Module directory
+.terraform/
+terraform/localvars.tf
